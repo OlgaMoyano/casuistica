@@ -1,0 +1,2 @@
+# casuistica
+Modelo de Casuistica
